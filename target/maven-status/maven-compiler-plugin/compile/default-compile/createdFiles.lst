@@ -1,0 +1,13 @@
+com\worthant\jsfgraph\YCoordinateBean.class
+com\worthant\jsfgraph\CoordinateHandlerBean.class
+com\worthant\CommaToDotConverter.class
+com\worthant\jsfgraph\XCoordinateBean.class
+com\worthant\jsfgraph\entity\ResultEntity.class
+com\worthant\jsfgraph\utils\AreaChecker.class
+com\worthant\jsfgraph\RCoordinateBean.class
+com\worthant\jsfgraph\db\DAOFactory.class
+com\worthant\jsfgraph\db\ResultDAOImpl.class
+com\worthant\jsfgraph\db\ResultDAO.class
+com\worthant\jsfgraph\entity\ResultEntity$ResultEntityBuilder.class
+com\worthant\jsfgraph\db\JPAUtils.class
+com\worthant\jsfgraph\ResultsControllerBean.class
